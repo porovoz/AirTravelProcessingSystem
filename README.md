@@ -37,7 +37,7 @@
 
 ### (EN)
 ## Task
-There is a certain system that handles air flights.
+There is a certain system that handles airflights.
 
 A flight is the transportation of a passenger from one point to another with possible intermediate landings.
 This means that a flight can be represented as a set of one or more elementary movements, called segments.
